@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>image_23 (2).jpg</filename>
+	<path>C:\Users\Dell\Desktop\yolo\1_datapreparation\data_images\image_23 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>681</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>63</ymin>
+			<xmax>329</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>164</ymin>
+			<xmax>649</xmax>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>image_21 (6).jpg</filename>
+	<path>C:\Users\Dell\Desktop\yolo\1_datapreparation\data_images\image_21 (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>93</ymin>
+			<xmax>657</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>102</ymin>
+			<xmax>819</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>806</xmin>
+			<ymin>204</ymin>
+			<xmax>1024</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

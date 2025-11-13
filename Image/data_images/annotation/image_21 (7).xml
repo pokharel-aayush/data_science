@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>image_21 (7).jpg</filename>
+	<path>C:\Users\Dell\Desktop\yolo\1_datapreparation\data_images\image_21 (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>41</ymin>
+			<xmax>612</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>321</ymin>
+			<xmax>777</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>
